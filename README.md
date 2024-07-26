@@ -8,4 +8,5 @@ Hi, I'm Jury Gregorio Jr., a cybersecurity enthusiast and skilled full stack dev
 ## Security Portfolio
 
 [Controls and compliance checklist for Botium Toys](https://docs.google.com/document/d/1f61jq-h4_A13wLMIHdap_qVvnowZ-va3qkYOyz9dGzQ/edit?usp=sharing)
+[Working for a multimedia company reports](https://docs.google.com/document/d/1-3QkV5UZIjI2Bvp5zGlVKnOwvU0IKAfNOHkKRTQrIwI/edit?usp=sharing&resourcekey=0-2fdN7WtLw4sZKQPFrdpOkg)
 
