@@ -11,3 +11,5 @@ Hi, I'm Jury Gregorio Jr., a cybersecurity enthusiast and skilled full stack dev
 
 [Working for a multimedia company reports](https://docs.google.com/document/d/1-3QkV5UZIjI2Bvp5zGlVKnOwvU0IKAfNOHkKRTQrIwI/edit?usp=sharing&resourcekey=0-2fdN7WtLw4sZKQPFrdpOkg)
 
+[File permissions in Linux](https://docs.google.com/document/d/1bcaX31EHTKUrHeVnMBv_ogIzYgVpq9EGatH_Z32Ckx8/edit?usp=sharing)
+
