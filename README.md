@@ -13,3 +13,5 @@ Hi, I'm Jury Gregorio Jr., a cybersecurity enthusiast and skilled full stack dev
 
 [File permissions in Linux](https://docs.google.com/document/d/1bcaX31EHTKUrHeVnMBv_ogIzYgVpq9EGatH_Z32Ckx8/edit?usp=sharing)
 
+[Apply filters to SQL queries](https://docs.google.com/document/d/1bcaX31EHTKUrHeVnMBv_ogIzYgVpq9EGatH_Z32Ckx8/edit?usp=sharing](https://docs.google.com/document/d/1wP6auWuHv5rv1zrIYpBG92IkBg5N8089R_s_2CuNfyk/edit?usp=sharing&resourcekey=0-TbNSHNR6F_F6ihyrjfdjgg)
+
